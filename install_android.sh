@@ -2,7 +2,7 @@
 
 # --- CONFIGURATION ---
 ANDROID_VERSION="api-33" # Android 13
-REPO_URL="https://github.com/HQarroum/docker-android"
+REPO_URL="https://github.com/guritaaa/docker-android"
 DIR_NAME="docker-android"
 
 # Colors for output
